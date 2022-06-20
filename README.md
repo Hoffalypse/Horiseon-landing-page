@@ -7,4 +7,4 @@ This is a landing page for Horiseon, a marketing firm specializing in online SEO
 <img src="./img-files/links.PNG"
 alt="top links bar"/>
 
-**[link to site here](https://hoffalypse.github.io/SEO-Marketing/seo-marketing)**
+**[link to site here](https://hoffalypse.github.io/Project1-html/seo-marketing)**
